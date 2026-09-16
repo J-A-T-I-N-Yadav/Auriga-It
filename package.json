@@ -1,0 +1,9 @@
+{
+  "name": "common-ground-gift-pool",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A static contribution tracker for shared gift pools",
+  "scripts": {
+    "start": "sh -c 'port=${PORT:-8000}; while ! python3 -m http.server \"$port\"; do port=$((port + 1)); done'"
+  }
+}
