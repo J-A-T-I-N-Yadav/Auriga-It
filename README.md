@@ -27,6 +27,8 @@ PORT=8001 npm start
 5. Click **Import & clean** and review the audit report.
 6. Follow the settlement transfers at the bottom.
 
+The organizer can also search participants, save the current pool in browser storage, download contribution CSV and JSON backups, restore a JSON backup, download a text audit, copy settlement instructions, print the report, and drag a file directly into the import area. These actions are implemented in `script.js` and keep the static app useful without a backend.
+
 Expected import format:
 
 ```text

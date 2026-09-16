@@ -57,6 +57,7 @@ This settles net balances instead of replaying who originally paid for whom, pro
 - A separate number-input stylesheet removes browser spinner controls while retaining numeric validation.
 - The import report is displayed beside the import controls so cleanup decisions are auditable.
 - `Intl.NumberFormat` provides INR display formatting, while parsed values are rounded to paise precision.
+- Organizer workflows such as persistence, participant search, CSV/JSON export, backup restore, audit download, clipboard sharing, printing, drag-and-drop import, and keyboard shortcuts live in JavaScript because they are behavior, not presentation.
 
 ## Edge cases
 

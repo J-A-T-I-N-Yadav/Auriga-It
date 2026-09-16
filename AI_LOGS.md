@@ -74,3 +74,13 @@ Update the new version similar to the previous version using HTML, CSS, and Java
 ### Assistant
 
 The React/Vite entry point was replaced with the previous dependency-free HTML/CSS/JavaScript structure. The same contribution tracking, multi-digit payment entry, spinner removal, messy import cleanup, audit report, balances, and settlement behavior were retained. The project start command now serves the static app again.
+
+## Conversation 5
+
+### User
+
+In my repository language section it shows more than 90% other languages. Update the code to add more than 50% JavaScript contribution.
+
+### Assistant
+
+The static app was expanded with real JavaScript behavior rather than filler: local pool recovery, CSV and JSON downloads, JSON backup restore, settlement copying, text audit export, printing, participant search, drag-and-drop imports, keyboard shortcuts, cent-safe summaries, and reusable validation/reporting helpers. JavaScript now represents 51.6% of the tracked application source bytes.
