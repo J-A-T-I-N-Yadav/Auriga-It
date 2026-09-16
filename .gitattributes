@@ -1,1 +1,4 @@
-*.js linguist-language=JavaScript
+*.js linguist-language=JavaScript linguist-detectable=true
+*.md linguist-documentation=true
+AI_LOGS.md linguist-documentation=true
+Reasoning.md linguist-documentation=true
