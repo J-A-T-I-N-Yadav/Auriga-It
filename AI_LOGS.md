@@ -64,3 +64,13 @@ The solution must import messy past contributions with duplicate entries, differ
 ### Assistant
 
 The implemented importer normalizes names such as `Farah` and `farah.`, parses rupee values with or without symbols and grouping commas, removes exact duplicate rows, merges legitimate repeated contributions, rejects malformed rows with reasons, and applies cleaned totals only to known participants. I updated the README, reasoning notes, and AI log to make those cleanup and reporting rules explicit.
+
+## Conversation 4
+
+### User
+
+Update the new version similar to the previous version using HTML, CSS, and JavaScript.
+
+### Assistant
+
+The React/Vite entry point was replaced with the previous dependency-free HTML/CSS/JavaScript structure. The same contribution tracking, multi-digit payment entry, spinner removal, messy import cleanup, audit report, balances, and settlement behavior were retained. The project start command now serves the static app again.
