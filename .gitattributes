@@ -1,4 +1,6 @@
-*.js linguist-language=JavaScript linguist-detectable=true
+*.js linguist-language=JavaScript linguist-detectable=true linguist-vendored=false linguist-generated=false linguist-documentation=false
+*.css linguist-language=CSS linguist-detectable=true linguist-vendored=false linguist-generated=false linguist-documentation=false
+*.html linguist-language=HTML linguist-detectable=true linguist-vendored=false linguist-generated=false linguist-documentation=false
 *.md linguist-documentation=true
 AI_LOGS.md linguist-documentation=true
 Reasoning.md linguist-documentation=true
